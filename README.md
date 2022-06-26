@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anh Le</h1>
 <h3 align="center">A graduate software engineer from Auckland University of Technology</h3>
+
 - 🌱 I’m currently learning **I’m currently learning ... Computer science && network security**
 - 👀 I’m interested in ...Java programming, C programming, network security, distributed system
 - 📫 How to reach me **anhledev1288@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/kubiii1288?tab=repositories](https://github.com/kubiii1288?tab=repositories)
 
 
 <!---
