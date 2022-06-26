@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anh Le</h1>
+<h1 align="center">Hi, I'm Anh Le 👋</h1>
 <h3 align="center">A graduate software engineer from Auckland University of Technology</h3>
 
 - 🌱 **I’m currently learning ... Computer science && network security**
