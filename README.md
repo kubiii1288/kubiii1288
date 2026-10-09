@@ -20,7 +20,7 @@
 
 I'm a software engineer who enjoys writing code, solving challenging problems, and understanding how systems work under the hood.
 
-- 💼 Experienced in developing **Java and Kotlin microservices**, RESTful APIs, and backend integrations.
+- 💼 Experienced in developing **Java and microservices**, RESTful APIs, and backend integrations.
 - 🏦 Worked on banking systems, including **electronic Know Your Customer (e-KYC)** workflows.
 - 🎓 Currently pursuing graduate studies in **Computer Science at George Mason University**.
 - 🔍 Interested in **distributed systems, computer architecture, systems programming, and performance optimization**.
