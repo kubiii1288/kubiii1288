@@ -66,4 +66,5 @@ I'm open to software engineering opportunities where I can contribute to meaning
 - 📫 **Email:** [anhledev1288@gmail.com](mailto:anhledev1288@gmail.com)
 - 💼 **LinkedIn:** [Anh Le](https://www.linkedin.com/in/dai-anh-le-8a78241bb/)
 - 💻 **GitHub:** [kubiii1288](https://github.com/kubiii1288/)
+- 🧩 LeetCode: [geomancer1288](https://leetcode.com/u/geomancer1288/)
 
