@@ -52,7 +52,7 @@ I'm a software engineer who enjoys writing code, solving challenging problems, a
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kubiii1288)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- Github stats-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kubiii1288&show_icons=true&locale=en" alt="kubiii1288" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=kubiii1288&show_icons=true&locale=en" alt="kubiii1288" /></p>
 
 ### 😄 A Little Developer Humor
 
