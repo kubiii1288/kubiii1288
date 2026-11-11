@@ -47,7 +47,7 @@ I'm a software engineer who enjoys writing code, solving challenging problems, a
 ### 📊 GitHub Statistics
 
 <!-- Language card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubiii1288)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kubiii1288)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kubiii1288)](https://github.com/stats-organization/github-stats-extended)
 
